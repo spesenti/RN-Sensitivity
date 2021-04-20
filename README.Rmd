@@ -1,4 +1,4 @@
 
 # Sensitivity to Radon-Nikodym Derivatives
 
-This repository studies senstiivity analysis to different probabilty measures.  
+This repository studies sensitivity analysis to different probabilty measures.  
